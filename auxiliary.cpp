@@ -10,6 +10,7 @@
 #include "engine.hpp"
 
 #include <cstdio>
+#include <iostream>
 
 #include <fstream>
 
